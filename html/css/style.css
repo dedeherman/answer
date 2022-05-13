@@ -1,0 +1,23 @@
+.header {
+    height: 600px;
+}
+
+section {
+    height: 600px;
+}
+
+.member-type {
+    margin-top: -200px;
+}
+
+.faq {
+    margin-top: -75px;
+}
+
+.faq h3 {
+    margin-top: 250px;
+}
+
+.price-member {
+    font-weight: 50px;
+}
